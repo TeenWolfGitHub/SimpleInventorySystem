@@ -1,0 +1,3 @@
+C:/Users/casab/Desktop/WORKSPACE_C++/SimpleInventorySystem/build/CMakeFiles/SimpleInventorySystem.dir
+C:/Users/casab/Desktop/WORKSPACE_C++/SimpleInventorySystem/build/CMakeFiles/edit_cache.dir
+C:/Users/casab/Desktop/WORKSPACE_C++/SimpleInventorySystem/build/CMakeFiles/rebuild_cache.dir

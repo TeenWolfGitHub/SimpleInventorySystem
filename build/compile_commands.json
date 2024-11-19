@@ -1,0 +1,44 @@
+[
+{
+  "directory": "C:/Users/casab/Desktop/WORKSPACE_C++/SimpleInventorySystem/build",
+  "command": "C:\\mingw64\\bin\\g++.exe  @CMakeFiles/SimpleInventorySystem.dir/includes_CXX.rsp -g -std=gnu++20 -o CMakeFiles\\SimpleInventorySystem.dir\\main.cpp.obj -c C:\\Users\\casab\\Desktop\\WORKSPACE_C++\\SimpleInventorySystem\\main.cpp",
+  "file": "C:/Users/casab/Desktop/WORKSPACE_C++/SimpleInventorySystem/main.cpp",
+  "output": "CMakeFiles/SimpleInventorySystem.dir/main.cpp.obj"
+},
+{
+  "directory": "C:/Users/casab/Desktop/WORKSPACE_C++/SimpleInventorySystem/build",
+  "command": "C:\\mingw64\\bin\\g++.exe  @CMakeFiles/SimpleInventorySystem.dir/includes_CXX.rsp -g -std=gnu++20 -o CMakeFiles\\SimpleInventorySystem.dir\\src\\classes\\I_Displayable.cpp.obj -c C:\\Users\\casab\\Desktop\\WORKSPACE_C++\\SimpleInventorySystem\\src\\classes\\I_Displayable.cpp",
+  "file": "C:/Users/casab/Desktop/WORKSPACE_C++/SimpleInventorySystem/src/classes/I_Displayable.cpp",
+  "output": "CMakeFiles/SimpleInventorySystem.dir/src/classes/I_Displayable.cpp.obj"
+},
+{
+  "directory": "C:/Users/casab/Desktop/WORKSPACE_C++/SimpleInventorySystem/build",
+  "command": "C:\\mingw64\\bin\\g++.exe  @CMakeFiles/SimpleInventorySystem.dir/includes_CXX.rsp -g -std=gnu++20 -o CMakeFiles\\SimpleInventorySystem.dir\\src\\classes\\ItemsInitializer.cpp.obj -c C:\\Users\\casab\\Desktop\\WORKSPACE_C++\\SimpleInventorySystem\\src\\classes\\ItemsInitializer.cpp",
+  "file": "C:/Users/casab/Desktop/WORKSPACE_C++/SimpleInventorySystem/src/classes/ItemsInitializer.cpp",
+  "output": "CMakeFiles/SimpleInventorySystem.dir/src/classes/ItemsInitializer.cpp.obj"
+},
+{
+  "directory": "C:/Users/casab/Desktop/WORKSPACE_C++/SimpleInventorySystem/build",
+  "command": "C:\\mingw64\\bin\\g++.exe  @CMakeFiles/SimpleInventorySystem.dir/includes_CXX.rsp -g -std=gnu++20 -o CMakeFiles\\SimpleInventorySystem.dir\\src\\classes\\Inventory.cpp.obj -c C:\\Users\\casab\\Desktop\\WORKSPACE_C++\\SimpleInventorySystem\\src\\classes\\Inventory.cpp",
+  "file": "C:/Users/casab/Desktop/WORKSPACE_C++/SimpleInventorySystem/src/classes/Inventory.cpp",
+  "output": "CMakeFiles/SimpleInventorySystem.dir/src/classes/Inventory.cpp.obj"
+},
+{
+  "directory": "C:/Users/casab/Desktop/WORKSPACE_C++/SimpleInventorySystem/build",
+  "command": "C:\\mingw64\\bin\\g++.exe  @CMakeFiles/SimpleInventorySystem.dir/includes_CXX.rsp -g -std=gnu++20 -o CMakeFiles\\SimpleInventorySystem.dir\\src\\classes\\Item.cpp.obj -c C:\\Users\\casab\\Desktop\\WORKSPACE_C++\\SimpleInventorySystem\\src\\classes\\Item.cpp",
+  "file": "C:/Users/casab/Desktop/WORKSPACE_C++/SimpleInventorySystem/src/classes/Item.cpp",
+  "output": "CMakeFiles/SimpleInventorySystem.dir/src/classes/Item.cpp.obj"
+},
+{
+  "directory": "C:/Users/casab/Desktop/WORKSPACE_C++/SimpleInventorySystem/build",
+  "command": "C:\\mingw64\\bin\\g++.exe  @CMakeFiles/SimpleInventorySystem.dir/includes_CXX.rsp -g -std=gnu++20 -o CMakeFiles\\SimpleInventorySystem.dir\\src\\classes\\Item_subclasses\\Weapon.cpp.obj -c C:\\Users\\casab\\Desktop\\WORKSPACE_C++\\SimpleInventorySystem\\src\\classes\\Item_subclasses\\Weapon.cpp",
+  "file": "C:/Users/casab/Desktop/WORKSPACE_C++/SimpleInventorySystem/src/classes/Item_subclasses/Weapon.cpp",
+  "output": "CMakeFiles/SimpleInventorySystem.dir/src/classes/Item_subclasses/Weapon.cpp.obj"
+},
+{
+  "directory": "C:/Users/casab/Desktop/WORKSPACE_C++/SimpleInventorySystem/build",
+  "command": "C:\\mingw64\\bin\\g++.exe  @CMakeFiles/SimpleInventorySystem.dir/includes_CXX.rsp -g -std=gnu++20 -o CMakeFiles\\SimpleInventorySystem.dir\\src\\classes\\Item_subclasses\\Miscellaneous.cpp.obj -c C:\\Users\\casab\\Desktop\\WORKSPACE_C++\\SimpleInventorySystem\\src\\classes\\Item_subclasses\\Miscellaneous.cpp",
+  "file": "C:/Users/casab/Desktop/WORKSPACE_C++/SimpleInventorySystem/src/classes/Item_subclasses/Miscellaneous.cpp",
+  "output": "CMakeFiles/SimpleInventorySystem.dir/src/classes/Item_subclasses/Miscellaneous.cpp.obj"
+}
+]
